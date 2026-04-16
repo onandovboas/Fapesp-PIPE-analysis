@@ -56,11 +56,11 @@ The analysis uses a relational model built in Excel Power Query, connecting the 
 
 See the full entity-relationship diagram below:
 
-![Entity-Relationship Diagram](diagrama_entidade_relacionamento.pdf)
+![Entity-Relationship Diagram](diagrama_entidade_relacionamento.png)
 
 A more detailed relational schema — originally designed for a startup ecosystem mapping platform built during the same period — is also included to illustrate data modeling applied to a broader innovation context:
 
-![Relational Diagram](diagrama_relacional.pdf)
+![Relational Diagram](diagrama_relacional.png)
 
 ---
 
